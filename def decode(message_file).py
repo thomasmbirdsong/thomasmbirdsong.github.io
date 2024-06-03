@@ -1,1 +1,0 @@
-def decode(message_file):
